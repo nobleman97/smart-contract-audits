@@ -1,6 +1,8 @@
 # Spin Token Audit Report
 
-Issue ID | Severity | Location | Issue | Status 
+Contract: [link](https://github.com/nobleman97/smart-contract-audits/blob/master/contracts/spinToken.sol)
+
+Issue ID | Severity | Location(line no.) | Issue | Status 
 | ---    | ---      | ---      | ---    | --- 
 1  | low      | #66      | A more descriptive error message is required    | not fixed
 2  | moderate | #108, #112, #116, #329, #330, #333, #334 | Functions lacks zero-check    | vulnerable
